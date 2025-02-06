@@ -1,0 +1,8 @@
+{
+  "name": "Hide Buttons",
+  "description": "Позволяет скрывать кнопки в мобильном Discord.",
+  "version": "1.0.0",
+  "author": "Ваше Имя",
+  "license": "MIT",
+  "entry": "index.js"
+}
